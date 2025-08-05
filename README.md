@@ -1,3 +1,3 @@
-# Python-ml-classifier
-This project implements a medical image classifier using TensorFlow in Python, designed to distinguish between real and synthetic brain MRI scans. The goal is to evaluate and improve the reliability of synthetic data generation techniques by training a neural network to detect subtle differences between real and artificially generated images.
-In addition, the project integrates Explainable AI (XAI) techniques through Grad-CAM heatmaps, allowing visual interpretation of the model’s decisions. These visualizations help highlight the specific regions of the brain MRIs that the model focuses on during classification, providing insight into model behaviour and supporting trust and transparency in medical AI applications.
+# 🧠 Brain MRI Classifier – Real vs Synthetic
+This project is a medical image classification pipeline developed in **Python** using **TensorFlow**, designed to distinguish between **real and synthetic brain MRI scans**. It also integrates **Explainable AI (XAI)** techniques and includes a graphical interface for end-user interaction.
+
