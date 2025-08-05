@@ -15,7 +15,6 @@ The project is divided into **four main Python files**, each handling a specific
   Implements a simple **graphical user interface** using **Cluede Sonet**. The GUI allows users to interact with the classifier, visualize predictions, and view XAI heatmaps. It integrates functionalities from all the other modules.
 
 - **`Dataset Availability`**
-
-  Due to size and licensing restrictions, the full dataset used for training and evaluation is not included in this repository.
+Due to size and licensing restrictions, the full dataset used for training and evaluation is not included in this repository.
 However, the repo contains two sample MRI images for each class (real and synthetic), which can be used for quick testing and demonstration purposes.
 If you need access to the full dataset or want to replicate the training process, please contact the repository owner.
